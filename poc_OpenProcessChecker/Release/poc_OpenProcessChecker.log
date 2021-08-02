@@ -1,0 +1,12 @@
+﻿  CSVFile.cpp
+  poc_OpenProcessChecker.cpp
+  worker.cpp
+  util.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(D:\!!! Проекты\2021\!Research\SNS87_Pentest\POC\poc_OpenProcessChecker\Release\poc_OpenProcessChecker.exe) does not match the Linker's OutputFile property value (D:\!!! Проекты\2021\!Research\SNS87_Pentest\POC\poc_OpenProcessChecker\Release\OpenProcessChecker.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(poc_OpenProcessChecker) does not match the Linker's OutputFile property value (OpenProcessChecker). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Generating code
+  2 of 1027 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  poc_OpenProcessChecker.vcxproj -> D:\!!! Проекты\2021\!Research\SNS87_Pentest\POC\poc_OpenProcessChecker\Release\poc_OpenProcessChecker.exe
